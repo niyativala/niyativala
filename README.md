@@ -1,14 +1,14 @@
-## Hi there 👋, I'm Niyati Vala
+# Hi 👋, I'm Niyati Vala
 
-💻 MERN Stack Learner
+💻 Frontend Developer | MERN Stack Learner
 🎓 IT Graduate
 
 ---
 
 ## 👩‍💻 About Me
 
-I am passionate about building clean, responsive, and user-friendly web applications.
-Currently focusing on improving my skills in React and MERN Stack development.
+I am a passionate Frontend Developer who enjoys building clean, responsive, and user-friendly web applications.
+Currently focused on strengthening my skills in React and MERN Stack development.
 
 ---
 
@@ -17,28 +17,38 @@ Currently focusing on improving my skills in React and MERN Stack development.
 * HTML, CSS, JavaScript
 * React.js
 * Bootstrap
-* Basic PHP
+* PHP
 * Learning Node.js & MongoDB
 
 ---
 
 ## 📌 Projects
 
-🔹 Weather Forecast Website
+### 🌦️ Weather Forecast Website
 
-* Built using HTML, CSS, JavaScript, and API
-* Features: 7-day forecast, alerts, responsive design
+* Developed using HTML, CSS, JavaScript, and Weather API
+* Features: 7-day forecast, weather alerts, responsive design
 
-🔹 User Registration Form
+---
 
-* Built using PHP, Bootstrap, JavaScript validation
+### 📝 Online Resume Maker
+
+* A web application to create professional resumes easily
+* Features: Live preview, form validation, clean UI
+* Tech Stack: HTML, CSS, JavaScript
+
+---
+
+### 🧾 User Registration Form
+
+* Built using PHP, Bootstrap, and JavaScript validation
 
 ---
 
 ## 📫 Connect with Me
 
 📧 Email: [niyativala06@gmail.com](mailto:niyativala06@gmail.com)
-🔗 LinkedIn: [www.linkedin.com/in/niyati-vala-732568399](http://www.linkedin.com/in/niyati-vala-732568399)
+🔗 LinkedIn: https://www.linkedin.com/in/niyati-vala-732568399
 
 ---
 
