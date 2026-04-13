@@ -27,7 +27,7 @@ Currently focused on strengthening my skills in React and MERN Stack development
 ### 🌦️ Weather Forecast Website
 
 * Developed using HTML, CSS, JavaScript, and Weather API
-* Features: 7-day forecast, weather alerts, responsive design
+* Features: 7-day forecast, Hourly forecast, weather alerts, responsive design
 
 ---
 
