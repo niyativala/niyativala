@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi there 👋, I'm Niyati Vala
 
-<!--
-**niyativala/niyativala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Learner
+🎓 IT Graduate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am passionate about building clean, responsive, and user-friendly web applications.
+Currently focusing on improving my skills in React and MERN Stack development.
+
+---
+
+## 🚀 Skills
+
+* HTML, CSS, JavaScript
+* React.js
+* Bootstrap
+* Basic PHP
+* Learning Node.js & MongoDB
+
+---
+
+## 📌 Projects
+
+🔹 Weather Forecast Website
+
+* Built using HTML, CSS, JavaScript, and API
+* Features: 7-day forecast, alerts, responsive design
+
+🔹 User Registration Form
+
+* Built using PHP, Bootstrap, JavaScript validation
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: [niyativala06@gmail.com](mailto:niyativala06@gmail.com)
+🔗 LinkedIn: [www.linkedin.com/in/niyati-vala-732568399](http://www.linkedin.com/in/niyati-vala-732568399)
+
+---
+
+⭐ Always learning and growing in web development!
