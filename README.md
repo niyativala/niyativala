@@ -33,6 +33,14 @@ Currently focused on improving my skills in React and MERN Stack development.
 
 ---
 
+### 🧮 Calculator App
+- Simple and responsive calculator built using HTML, CSS, and JavaScript  
+- Features: Basic operations, Backspace (⌫), Decimal support, Clean UI  
+
+🔗 https://github.com/niyativala/Calculator  
+
+---
+
 ### 🎯 Guess Number Game
 - Fun number guessing game using JavaScript  
 - Concepts: DOM manipulation, conditions, events  
