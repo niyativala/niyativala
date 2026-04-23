@@ -25,12 +25,6 @@ Currently focused on improving my skills in React and MERN Stack development.
 
 ## 📌 Projects
 
-### 🌦️ Weather Forecast Website
-- Built using HTML, CSS, JavaScript & Weather API  
-- Features: 7-day forecast, hourly forecast, alerts, responsive design  
-
----
-
 ### 📝 ToDo App
 - Simple and responsive ToDo application  
 - Features: Add, Delete tasks, Date-wise task management  
@@ -52,6 +46,12 @@ Currently focused on improving my skills in React and MERN Stack development.
 - Focus on logic building and user interaction  
 
 🔗 https://github.com/niyativala/cricket-game  
+
+---
+
+### 🌦️ Weather Forecast Website
+- Built using HTML, CSS, JavaScript & Weather API  
+- Features: 7-day forecast, hourly forecast, alerts, responsive design  
 
 ---
 
