@@ -17,7 +17,8 @@ Currently focused on improving my skills in React and MERN Stack development.
 - HTML, CSS, JavaScript  
 - React.js (Learning)  
 - Bootstrap  
-- PHP  
+- PHP
+- MySQL
 - Git & GitHub  
 - Learning Node.js & MongoDB  
 
