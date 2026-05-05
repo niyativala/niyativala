@@ -58,6 +58,15 @@ Currently focused on improving my skills in React and MERN Stack development.
 
 ---
 
+### 🎨 Dynamic Color Generator ⭐ (Featured)
+- Generate beautiful color palettes dynamically
+- Clean UI with real-time color updates
+- Great for designers & developers
+
+🔗 https://github.com/niyativala/dynamic-color-generator
+
+---
+
 ### 🌦️ Weather Forecast Website
 - Built using HTML, CSS, JavaScript & Weather API  
 - Features: 7-day forecast, hourly forecast, alerts, responsive design  
