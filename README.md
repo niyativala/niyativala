@@ -58,7 +58,7 @@ Currently focused on improving my skills in React and MERN Stack development.
 
 ---
 
-### 🎨 Dynamic Color Generator ⭐ (Featured)
+### 🎨 Dynamic Color Generator 
 - Generate beautiful color palettes dynamically
 - Clean UI with real-time color updates
 - Great for designers & developers
