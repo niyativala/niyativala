@@ -26,6 +26,15 @@ Currently focused on improving my skills in React and MERN Stack development.
 
 ## 📌 Projects
 
+### 🎨 Dynamic Color Generator 
+- Generate beautiful color palettes dynamically
+- Clean UI with real-time color updates
+- Great for designers & developers
+
+🔗 https://github.com/niyativala/dynamic-color-generator
+
+---
+
 ### 📝 ToDo App
 - Simple and responsive ToDo application  
 - Features: Add, Delete tasks, Date-wise task management  
@@ -55,15 +64,6 @@ Currently focused on improving my skills in React and MERN Stack development.
 - Focus on logic building and user interaction  
 
 🔗 https://github.com/niyativala/cricket-game  
-
----
-
-### 🎨 Dynamic Color Generator 
-- Generate beautiful color palettes dynamically
-- Clean UI with real-time color updates
-- Great for designers & developers
-
-🔗 https://github.com/niyativala/dynamic-color-generator
 
 ---
 
