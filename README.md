@@ -101,15 +101,16 @@ A simple cricket game based on logic building and user interaction.
 ---
 
 ## 🎮 Simon Says Game
-A memory-based game built using JavaScript.
+A fun and interactive memory game built using HTML, CSS, and JavaScript.
 
 ### ✨ Features
-- Sequence memory gameplay  
-- Interactive animations  
-- Responsive modern UI  
-- Dynamic level progression  
+- Random color sequence generation  
+- Memory-based gameplay  
+- Level progression system  
+- Flash animations and effects  
+- Modern responsive UI  
 
-🔗 Repository: https://github.com/niyativala
+🔗 Repository: https://github.com/niyativala/simon-says-game
 
 ---
 
@@ -159,7 +160,7 @@ A PHP-based registration system with Bootstrap and JavaScript validation.
 
 # 📫 Connect with Me
 
-📧 Email: niyativala06@gmail.com  
+📧 Email: niyativala1506@gmail.com  
 
 🔗 LinkedIn: https://www.linkedin.com/in/niyati-vala-732568399  
 
