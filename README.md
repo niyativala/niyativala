@@ -7,8 +7,10 @@
 
 # 👩‍💻 About Me
 
-I am a passionate Frontend Developer who enjoys building clean, responsive, and user-friendly web applications.  
-Currently focused on improving my skills in React and MERN Stack development by creating real-world projects and improving my problem-solving skills.
+Motivated and enthusiastic IT Graduate with strong knowledge of HTML, CSS, JavaScript, Bootstrap, PHP, Node.js, and Express.js. 
+Currently expanding my skills in React.js, MongoDB, and MERN Stack development.
+Passionate about building responsive and user-friendly web applications while continuously improving problem-solving and development skills. 
+Seeking an opportunity as a MERN Stack Developer where I can contribute to real-world projects, learn from experienced professionals, and grow as a software developer.
 
 ---
 
@@ -18,17 +20,23 @@ Currently focused on improving my skills in React and MERN Stack development by 
 - HTML5  
 - CSS3  
 - JavaScript  
-- Bootstrap  
+- Bootstrap
+- Responsive Web Design
 - React.js (Learning)
 
 ### ⚙️ Backend & Database
 - PHP  
-- MySQL  
-- Learning Node.js & MongoDB  
+- MySQL
+- Express.js
+- Node.js
+- Learning MongoDB  
 
 ### 🛠️ Tools & Platforms
-- Git & GitHub  
-- VS Code  
+- Git & GitHub
+- npm
+- Postman
+- VS Code
+- Terminal
 - API Integration  
 
 ---
@@ -52,10 +60,10 @@ A simple web application that generates random RGB colors dynamically using Java
 A responsive task management application built using JavaScript.
 
 ### ✨ Features
-- Add & delete tasks  
-- Dynamic task updates  
-- Responsive design  
-- Beginner-friendly UI  
+- Add, Update & Delete tasks
+- Dark/Light mode using classList.toggle()
+- Dynamic task management with DOM manipulation  
+- Responsive and user-friendly interface   
 
 🔗 Repository: https://github.com/niyativala/Todo-App
 
@@ -153,7 +161,6 @@ A PHP-based registration system with Bootstrap and JavaScript validation.
 - React.js  
 - Node.js  
 - MongoDB  
-- Express.js  
 - MERN Stack Development  
 
 ---
